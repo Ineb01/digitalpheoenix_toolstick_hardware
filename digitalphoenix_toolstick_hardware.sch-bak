@@ -920,14 +920,4 @@ Wire Notes Line
 	7400 550  7400 3200
 Text Notes 10200 850  0    200  ~ 0
 FLASH
-Wire Notes Line
-	550  3300 6900 3300
-Wire Notes Line
-	6900 3300 6900 7700
-Wire Notes Line
-	6900 7700 550  7700
-Wire Notes Line
-	550  7700 550  3300
-Text Notes 600  3600 0    200  ~ 0
-MCU
 $EndSCHEMATC
