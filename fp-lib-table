@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/libraries/espressif/footprints)(options "")(descr ""))
+  (lib (name Wickerlib)(type KiCad)(uri ${KIPRJMOD}/libraries/wickerlib/libraries/Wickerlib.pretty)(options "")(descr ""))
 )
